@@ -1,6 +1,6 @@
 //
 //  ProductModel.swift
-//  product_api
+//  vapor_postgresql_example
 //
 //  Created by Irfan Dary Sujatmiko on 12/02/25.
 //
